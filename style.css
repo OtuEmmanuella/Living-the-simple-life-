@@ -70,7 +70,6 @@ img {
 nav ul {
     display: flex;
     justify-content: center;
-    margin: 1em 0;
     padding: 0;
     list-style: none;
 }
@@ -85,7 +84,6 @@ nav a {
    font-size: 1rem;
    color: #707070;
    font-weight: 700; 
-   transition: 0.15s;
 }
 
 nav a:hover,
@@ -95,7 +93,6 @@ nav a:focus {
 
 .current-page {
     border-bottom: 1.5px solid #707070;
-    padding: .3em 0;
 }
 
 .current-page:hover {
